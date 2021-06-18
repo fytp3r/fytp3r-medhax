@@ -1,0 +1,16 @@
+.capsa-gran {
+    height: 80vh; /* ALT DE LA CAPSA GRAN - 80% de l'alt de la finestra */
+    width: 60vw; /* AMPLE DE LA CAPSA GRAN - 60% de l'ample de la finestra*/
+    border: black solid 2px;
+    border-radius: 25px;
+    background-image:  url('https://pm1.narvii.com/6834/6ebb74f14e6b27ed1310fa1efe0a34e59ec857acv2_hq.jpg');
+    display: flex;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: inherit;
+    opacity: 0.5;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
